@@ -1,4 +1,3 @@
-import Image from "next/image";
 import  HomePage from "./MainPage/Home";
 import CardsSection from "./MainPage/CardsSection"
 import Loyihalarimiz from "./MainPage/LoyihlarimizSection"

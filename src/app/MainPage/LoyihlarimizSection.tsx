@@ -8,21 +8,21 @@ const projects = [
     title: "Tourmad loyihasi",
     description:
       "Tourmad – O‘zbekistonning ichki turizimini rivojlantirish maqsadida ishlab chiqilgan bu web sayt o‘zida bir necha service larni o‘z ichiga jamlagan bo‘lib ulardan: Mehmonxona xizmari, Restoran xizmati, Gitlik xizmati, Mashinada sayohat qilish uchun haydovchilar xizmari va boshqa ko‘plab xizmarlarni o‘z ichiga oladi. Bundan tashqari saytdan o‘zingiz uchun qayerlarga boorish kerakligini va qayerlarda xizmat ko‘satish qancha ekanligini ko‘rishingiz va o‘zingiz uchun oldindan buyurtma qilishingiz mumkin.",
-    image: "/images/Loyihalarimiz1.svg", // public/images papkasidan rasm manzili
+    image: "/images/Loyihalarimiz1.svg",
     link: "#",
   },
   {
     title: "ProRun loyihasi",
     description:
       "Prorun.uz – bu saytda tez-tez bo‘lib o‘tadigan yugurish bo‘yicha musobaqalar bo‘lib o‘tadi va siz saytdan ro‘ yxatdan o‘tgan holda istalgan yoki har bir musobaqada qatnashishingiz mumkin. Nima uchun sayt qurilgan? Musobaqalarda chet ellik ishtirokchilar bo‘lgani bois ularga va boshqa qatnashchilarga ro‘yxatdan o‘tishni oson qilish uchun yangi web ilova ishlab chiqildi.",
-    image: "/images/Loyihalarimiz2.svg", // public/images papkasidan rasm manzili
+    image: "/images/Loyihalarimiz2.svg",
     link: "https://prorun.uz",
   },
   {
     title: "Xalq trans loyihasi",
     description:
       "Bu yerda esa yana ko’proq ma’lumotlar berilishi kerak. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
-    image: "/images/Loyihalarimiz3.svg", // public/images papkasidan rasm manzili
+    image: "/images/Loyihalarimiz3.svg",
     link: "#",
   },
 ];
