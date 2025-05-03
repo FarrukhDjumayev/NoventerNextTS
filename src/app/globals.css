@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+
+
+.bgGlowPic {
+  background-image: url('/bgGlow.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 100%; 
+}
+
+
+
+.maincolor {
+    background-color: #0E041D;
+}
+
+.maincolorone{
+  background-color: #5A00DB
+}
+
+.bgpic {
+  background-image: url("/images/bgpic.svg");
+  background-size: auto;
+  background-repeat: no-repeat;
+}
