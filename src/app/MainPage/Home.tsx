@@ -126,7 +126,7 @@ export default function Home() {
       <section className="bg-[#5A00DB] py-14 relative z-10" data-aos="fade-up">
         <div className="container px-4 text-start max-w-4xl">
           <h2 className="text-3xl md:text-4xl font-bold text-white mb-3">Biz haqimizda</h2>
-          <p className="text-purple-100 text-lg">Qisqacha ma'lumot</p>
+          <p className="text-purple-100 text-lg">Qisqacha ma&apos;lumot</p>
         </div>
       </section>
     </main>

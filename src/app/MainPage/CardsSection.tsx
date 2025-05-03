@@ -5,7 +5,7 @@ import Image from "next/image"
 const cards = [
   {
     title: "Boshlanishi",
-    description: "Biz --- dan ish boshladik va ---- larni oldimizga maqsad qilib qo’ydik",
+    description: "Biz --- dan ish boshladik va ---- larni oldimizga maqsad qilib qo&aposydik",
     image: "/Card1.jpg",
   },
   {
@@ -53,9 +53,9 @@ export default function CardsSection() {
 
       <div className="max-w-7xl mx-auto mt-16 px-4 text-white/80 text-sm md:text-base leading-relaxed text-start">
         <p>
-          Bu yerda esa yana ko’proq ma’lumotlar berilishi kerak.
+          Bu yerda esa yana ko&apos;proq ma&apos;lumotlar berilishi kerak.
           <br />
-          <span>Bu yerda esa yana ko’proq ma’lumotlar berilishi kerak. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</span>
+          <span>Bu yerda esa yana koproq ma&apos;lumotlar berilishi kerak. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</span>
         </p>
       </div>
     </section>
