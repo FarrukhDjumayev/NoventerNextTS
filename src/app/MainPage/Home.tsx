@@ -11,6 +11,7 @@ import {
   LucideShield,
   LucideLayoutGrid,
 } from 'lucide-react'
+import homepc from '@/assets/HomePagePC.svg'
 
 export default function Home() {
   useEffect(() => {
@@ -95,8 +96,8 @@ export default function Home() {
 
         <div className="relative w-full max-w-[700px] mx-auto" data-aos="fade-left">
           <Image
-            src="/HomepagePC.svg"
-            alt="Platforma interfeysi"
+            src={homepc}
+            alt="Kompyuter rasm"
             width={700}
             height={500}
             className="w-full h-auto relative z-10 drop-shadow-2xl"
