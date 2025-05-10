@@ -13,7 +13,7 @@ const Footer: React.FC = () => {
 
   return (
     <footer className="relative maincolor text-white inter py-16 px-8">
-      {/* Background Image */}
+      
       <div className="absolute inset-0 -z-10">
         <Image
           src="/bgGlow.png"
@@ -31,7 +31,7 @@ const Footer: React.FC = () => {
       </div>
 
       <div className="max-w-7xl mx-auto flex flex-col lg:flex-row gap-8">
-        {/* JAMOA HAQIDA */}
+        
         <div
           className="bg-white/5 backdrop-blur-lg border p-6 rounded-2xl w-full lg:w-2/3"
           data-aos="fade-up"
@@ -47,7 +47,7 @@ const Footer: React.FC = () => {
               >
                 <div className="w-12 h-12 bg-white rounded-md"></div>
                 <div>
-                  <h3 className="font-semibold">Xusanov Alibek</h3>
+                  <h3 className="font-semibold">Jumayev Farrukh</h3>
                   <p className="text-sm text-gray-400">Developer</p>
                 </div>
               </div>
@@ -55,7 +55,7 @@ const Footer: React.FC = () => {
           </div>
         </div>
 
-        {/* KONSULTATSIYA FORMASI */}
+        
         <div
           className="bg-white/5 backdrop-blur-2xl border p-6 rounded-2xl w-full lg:w-1/3"
           data-aos="zoom-in"
